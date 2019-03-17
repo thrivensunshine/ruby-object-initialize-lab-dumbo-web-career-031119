@@ -1,4 +1,4 @@
-def person
+def Person
   
   attr_accessor :name
   
